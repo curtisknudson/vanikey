@@ -1,7 +1,12 @@
 [package]
 name = "vanikey"
 version = "0.1.0"
+authors = ["Curtis Knudson <stomps.wikis_8t@icloud.com>"]
 edition = "2021"
+description = "A simple command-line vanity npub generator for Nostr"
+license = "MIT"
+repository = "https://github.com/curtisknudson/vanikey"
+categories = ["command-line-utilities"]
 
 [dependencies]
 bech32 = "0.9.1"
