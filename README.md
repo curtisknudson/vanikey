@@ -20,7 +20,7 @@ cargo install vanikey
 ### Generating Vanity npub
 
 ```bash
-vanikey "nakam0t0"
+vanikey nakam0t0
 ```
 
 ### Generating vanity pub with additional prefixes
